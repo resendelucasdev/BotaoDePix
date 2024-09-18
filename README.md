@@ -1,6 +1,8 @@
 Descrição do Projeto
 
-Este projeto utiliza HTML e CSS para criar um botão interativo com efeito de hover. O botão simula uma interface de pagamento, contendo um ícone, um texto descritivo e um valor. Ao passar o mouse sobre o botão, há uma transição suave na cor de fundo e do texto, conforme demonstrado no exemplo visual.
+Este projeto utiliza HTML e CSS para criar um botão interativo com efeito de hover.
+O botão simula uma interface de pagamento, contendo um ícone, um texto descritivo e um valor. 
+Ao passar o mouse sobre o botão, há uma transição suave na cor de fundo e do texto, conforme demonstrado no exemplo visual.
 
 Principais Pontos:
 
@@ -18,7 +20,9 @@ Este código é ideal para interfaces de pagamento ou componentes que requerem i
 
 Project Description
 
-This project uses HTML and CSS to create an interactive button with a hover effect. The button simulates a payment interface, containing an icon, descriptive text, and a value. When hovering over the button, there is a smooth transition in background and text color, as demonstrated in the visual example.
+This project uses HTML and CSS to create an interactive button with a hover effect. 
+The button simulates a payment interface, containing an icon, descriptive text, and a value. 
+When hovering over the button, there is a smooth transition in background and text color, as demonstrated in the visual example.
 
 Key Points:
 
